@@ -1,0 +1,151 @@
+market_date,market_day,market_week,market_year,market_start_time,market_end_time,special_notes,market_season,market_min_temp,market_max_temp,market_rain_flag,market_snow_flag
+02/03/19,Saturday,9,2019,8:00 AM,2:00 PM,,Spring,34,42,0,0
+09/03/19,Saturday,10,2019,9:00 AM,2:00 PM,,Spring,28,32,0,1
+13/03/19,Wednesday,11,2019,4:00 PM,7:00 PM,,Spring,52,60,0,0
+16/03/19,Saturday,11,2019,8:00 AM,2:00 PM,,Spring,33,45,0,0
+20/03/19,Wednesday,12,2019,4:00 PM,7:00 PM,,Spring,43,51,1,0
+23/03/19,Saturday,12,2019,8:00 AM,2:00 PM,,Spring,40,46,1,0
+27/03/19,Wednesday,13,2019,4:00 PM,7:00 PM,,Spring,55,62,0,0
+30/03/19,Saturday,13,2019,8:00 AM,2:00 PM,,Spring,39,55,1,0
+03/04/19,Wednesday,14,2019,4:00 PM,7:00 PM,,Spring,33,47,0,0
+06/04/19,Saturday,14,2019,8:00 AM,2:00 PM,,Spring,50,65,0,0
+10/04/19,Wednesday,15,2019,4:00 PM,7:00 PM,,Spring,57,65,0,0
+13/04/19,Saturday,15,2019,8:00 AM,2:00 PM,,Spring,48,55,0,0
+17/04/19,Wednesday,16,2019,4:00 PM,7:00 PM,,Spring,50,58,0,0
+20/04/19,Saturday,16,2019,8:00 AM,2:00 PM,,Spring,49,60,0,0
+24/04/19,Wednesday,17,2019,4:00 PM,7:00 PM,,Spring,51,59,0,0
+27/04/19,Saturday,17,2019,8:00 AM,2:00 PM,,Spring,51,68,0,0
+01/05/19,Wednesday,18,2019,4:00 PM,7:00 PM,,Spring,53,59,0,0
+04/05/19,Saturday,18,2019,8:00 AM,2:00 PM,,Spring,54,64,0,0
+08/05/19,Wednesday,19,2019,4:00 PM,7:00 PM,,Spring,,,0,0
+11/05/19,Saturday,19,2019,8:00 AM,2:00 PM,,Spring,,,0,0
+15/05/19,Wednesday,20,2019,4:00 PM,7:00 PM,,Spring,,,0,0
+18/05/19,Saturday,20,2019,8:00 AM,2:00 PM,,Spring,,,0,0
+22/05/19,Wednesday,21,2019,4:00 PM,7:00 PM,,Spring,,,0,0
+25/05/19,Saturday,21,2019,8:00 AM,2:00 PM,,Spring,,,0,0
+29/05/19,Wednesday,22,2019,4:00 PM,7:00 PM,,Spring,,,0,0
+01/06/19,Saturday,22,2019,8:00 AM,2:00 PM,,Summer/Early Fall,49,69,0,0
+05/06/19,Wednesday,23,2019,4:00 PM,7:00 PM,,Summer/Early Fall,71,82,0,0
+08/06/19,Saturday,23,2019,8:00 AM,2:00 PM,,Summer/Early Fall,57,76,0,0
+12/06/19,Wednesday,24,2019,4:00 PM,7:00 PM,,Summer/Early Fall,73,82,0,0
+15/06/19,Saturday,24,2019,8:00 AM,2:00 PM,,Summer/Early Fall,56,64,0,0
+19/06/19,Wednesday,25,2019,4:00 PM,7:00 PM,,Summer/Early Fall,68,76,0,0
+22/06/19,Saturday,25,2019,8:00 AM,2:00 PM,,Summer/Early Fall,65,80,0,0
+26/06/19,Wednesday,26,2019,4:00 PM,7:00 PM,,Summer/Early Fall,74,85,0,0
+29/06/19,Saturday,26,2019,8:00 AM,2:00 PM,,Summer/Early Fall,72,79,0,0
+03/07/19,Wednesday,27,2019,4:00 PM,7:00 PM,,Summer/Early Fall,70,89,0,0
+06/07/19,Saturday,27,2019,8:00 AM,2:00 PM,,Summer/Early Fall,67,78,0,0
+10/07/19,Wednesday,28,2019,4:00 PM,7:00 PM,,Summer/Early Fall,77,90,0,0
+13/07/19,Saturday,28,2019,8:00 AM,2:00 PM,,Summer/Early Fall,65,81,0,0
+17/07/19,Wednesday,29,2019,4:00 PM,7:00 PM,,Summer/Early Fall,,,0,0
+20/07/19,Saturday,29,2019,8:00 AM,2:00 PM,,Summer/Early Fall,,,0,0
+24/07/19,Wednesday,30,2019,4:00 PM,7:00 PM,,Summer/Early Fall,,,0,0
+27/07/19,Saturday,30,2019,8:00 AM,2:00 PM,,Summer/Early Fall,,,0,0
+31/07/19,Wednesday,31,2019,4:00 PM,7:00 PM,,Summer/Early Fall,,,1,0
+03/08/19,Saturday,31,2019,8:00 AM,2:00 PM,,Summer/Early Fall,,,0,0
+07/08/19,Wednesday,32,2019,4:00 PM,7:00 PM,,Summer/Early Fall,,,0,0
+10/08/19,Saturday,32,2019,8:00 AM,2:00 PM,,Summer/Early Fall,,,0,0
+14/08/19,Wednesday,33,2019,4:00 PM,7:00 PM,,Summer/Early Fall,,,0,0
+17/08/19,Saturday,33,2019,8:00 AM,2:00 PM,,Summer/Early Fall,,,0,0
+21/08/19,Wednesday,34,2019,4:00 PM,7:00 PM,,Summer/Early Fall,,,0,0
+24/08/19,Saturday,34,2019,8:00 AM,2:00 PM,,Summer/Early Fall,,,0,0
+28/08/19,Wednesday,35,2019,4:00 PM,7:00 PM,,Summer/Early Fall,,,0,0
+31/08/19,Saturday,35,2019,8:00 AM,2:00 PM,,Summer/Early Fall,,,0,0
+04/09/19,Wednesday,36,2019,4:00 PM,7:00 PM,,Summer/Early Fall,,,0,0
+07/09/19,Saturday,36,2019,8:00 AM,2:00 PM,,Summer/Early Fall,,,0,0
+11/09/19,Wednesday,37,2019,4:00 PM,7:00 PM,,Summer/Early Fall,,,0,0
+14/09/19,Saturday,37,2019,8:00 AM,2:00 PM,,Summer/Early Fall,,,0,0
+18/09/19,Wednesday,38,2019,4:00 PM,7:00 PM,,Summer/Early Fall,,,0,0
+21/09/19,Saturday,38,2019,8:00 AM,2:00 PM,,Summer/Early Fall,,,1,0
+25/09/19,Wednesday,39,2019,4:00 PM,7:00 PM,,Summer/Early Fall,,,0,0
+28/09/19,Saturday,39,2019,8:00 AM,2:00 PM,,Summer/Early Fall,,,0,0
+02/10/19,Wednesday,40,2019,4:00 PM,7:00 PM,,Summer/Early Fall,,,0,0
+05/10/19,Saturday,40,2019,8:00 AM,2:00 PM,,Summer/Early Fall,,,0,0
+09/10/19,Wednesday,41,2019,4:00 PM,7:00 PM,,Summer/Early Fall,,,0,0
+12/10/19,Saturday,41,2019,8:00 AM,2:00 PM,,Summer/Early Fall,,,0,0
+16/10/19,Wednesday,42,2019,4:00 PM,7:00 PM,,Summer/Early Fall,,,0,0
+19/10/19,Saturday,42,2019,8:00 AM,2:00 PM,,Summer/Early Fall,,,1,0
+23/10/19,Wednesday,43,2019,4:00 PM,7:00 PM,,Summer/Early Fall,,,0,0
+26/10/19,Saturday,43,2019,8:00 AM,2:00 PM,,Summer/Early Fall,,,0,0
+30/10/19,Wednesday,44,2019,4:00 PM,7:00 PM,,Summer/Early Fall,,,0,0
+02/11/19,Saturday,44,2019,8:00 AM,2:00 PM,,Late Fall/Holiday,,,0,0
+06/11/19,Wednesday,45,2019,4:00 PM,7:00 PM,,Late Fall/Holiday,,,0,0
+09/11/19,Saturday,45,2019,8:00 AM,2:00 PM,,Late Fall/Holiday,,,0,0
+13/11/19,Wednesday,46,2019,4:00 PM,7:00 PM,,Late Fall/Holiday,,,0,0
+16/11/19,Saturday,46,2019,8:00 AM,2:00 PM,,Late Fall/Holiday,,,0,0
+20/11/19,Wednesday,47,2019,4:00 PM,7:00 PM,,Late Fall/Holiday,,,0,0
+23/11/19,Saturday,47,2019,8:00 AM,2:00 PM,,Late Fall/Holiday,,,0,0
+27/11/19,Wednesday,48,2019,4:00 PM,7:00 PM,,Late Fall/Holiday,,,0,0
+30/11/19,Saturday,48,2019,8:00 AM,2:00 PM,,Late Fall/Holiday,,,0,0
+04/12/19,Wednesday,49,2019,4:00 PM,7:00 PM,,Late Fall/Holiday,,,1,0
+07/12/19,Saturday,49,2019,8:00 AM,2:00 PM,,Late Fall/Holiday,,,0,0
+11/12/19,Wednesday,50,2019,4:00 PM,7:00 PM,,Late Fall/Holiday,,,1,0
+14/12/19,Saturday,50,2019,8:00 AM,2:00 PM,,Late Fall/Holiday,,,0,0
+18/12/19,Wednesday,51,2019,4:00 PM,7:00 PM,,Late Fall/Holiday,,,0,0
+21/12/19,Saturday,51,2019,8:00 AM,2:00 PM,,Late Fall/Holiday,,,0,0
+25/12/19,Wednesday,52,2019,4:00 PM,7:00 PM,,Late Fall/Holiday,,,0,0
+28/12/19,Saturday,52,2019,8:00 AM,2:00 PM,,Late Fall/Holiday,,,0,0
+04/03/20,Wednesday,10,2020,4:00 PM,7:00 PM,,Spring,,,0,0
+07/03/20,Saturday,10,2020,8:00 AM,2:00 PM,,Spring,,,0,0
+11/03/20,Wednesday,11,2020,4:00 PM,7:00 PM,,Spring,,,0,0
+14/03/20,Saturday,11,2020,8:00 AM,2:00 PM,,Spring,,,0,0
+18/03/20,Wednesday,12,2020,4:00 PM,7:00 PM,,Spring,,,0,0
+21/03/20,Saturday,12,2020,8:00 AM,2:00 PM,,Spring,,,0,0
+25/03/20,Wednesday,13,2020,4:00 PM,7:00 PM,,Spring,,,0,0
+28/03/20,Saturday,13,2020,8:00 AM,2:00 PM,,Spring,,,0,0
+01/04/20,Wednesday,14,2020,4:00 PM,7:00 PM,,Spring,,,1,0
+04/04/20,Saturday,14,2020,8:00 AM,2:00 PM,,Spring,,,0,0
+08/04/20,Wednesday,15,2020,4:00 PM,7:00 PM,,Spring,,,0,0
+11/04/20,Saturday,15,2020,8:00 AM,2:00 PM,,Spring,,,0,0
+15/04/20,Wednesday,16,2020,4:00 PM,7:00 PM,,Spring,,,0,0
+18/04/20,Saturday,16,2020,8:00 AM,2:00 PM,,Spring,,,1,0
+22/04/20,Wednesday,17,2020,4:00 PM,7:00 PM,,Spring,,,0,0
+25/04/20,Saturday,17,2020,8:00 AM,2:00 PM,,Spring,,,0,0
+29/04/20,Wednesday,18,2020,4:00 PM,7:00 PM,,Spring,,,0,0
+02/05/20,Saturday,18,2020,8:00 AM,2:00 PM,,Spring,,,0,0
+06/05/20,Wednesday,19,2020,4:00 PM,7:00 PM,,Spring,,,1,0
+09/05/20,Saturday,19,2020,8:00 AM,2:00 PM,,Spring,,,1,0
+13/05/20,Wednesday,20,2020,4:00 PM,7:00 PM,,Spring,,,0,0
+16/05/20,Saturday,20,2020,8:00 AM,2:00 PM,,Spring,,,0,0
+20/05/20,Wednesday,21,2020,4:00 PM,7:00 PM,,Spring,,,0,0
+23/05/20,Saturday,21,2020,8:00 AM,2:00 PM,,Spring,,,1,0
+27/05/20,Wednesday,22,2020,4:00 PM,7:00 PM,,Spring,,,1,0
+30/05/20,Saturday,22,2020,8:00 AM,2:00 PM,,Spring,,,0,0
+03/06/20,Wednesday,23,2020,4:00 PM,7:00 PM,,Summer/Early Fall,,,0,0
+06/06/20,Saturday,23,2020,8:00 AM,2:00 PM,,Summer/Early Fall,,,0,0
+10/06/20,Wednesday,24,2020,4:00 PM,7:00 PM,,Summer/Early Fall,,,0,0
+13/06/20,Saturday,24,2020,8:00 AM,2:00 PM,,Summer/Early Fall,,,0,0
+17/06/20,Wednesday,25,2020,4:00 PM,7:00 PM,,Summer/Early Fall,,,0,0
+20/06/20,Saturday,25,2020,8:00 AM,2:00 PM,,Summer/Early Fall,,,0,0
+24/06/20,Wednesday,26,2020,4:00 PM,7:00 PM,,Summer/Early Fall,,,0,0
+27/06/20,Saturday,26,2020,8:00 AM,2:00 PM,,Summer/Early Fall,,,0,0
+01/07/20,Wednesday,27,2020,4:00 PM,7:00 PM,,Summer/Early Fall,,,0,0
+04/07/20,Saturday,27,2020,8:00 AM,2:00 PM,,Summer/Early Fall,,,0,0
+08/07/20,Wednesday,28,2020,4:00 PM,7:00 PM,,Summer/Early Fall,,,1,0
+11/07/20,Saturday,28,2020,8:00 AM,2:00 PM,,Summer/Early Fall,,,1,0
+15/07/20,Wednesday,29,2020,4:00 PM,7:00 PM,,Summer/Early Fall,,,0,0
+18/07/20,Saturday,29,2020,8:00 AM,2:00 PM,,Summer/Early Fall,,,0,0
+22/07/20,Wednesday,30,2020,4:00 PM,7:00 PM,,Summer/Early Fall,,,0,0
+25/07/20,Saturday,30,2020,8:00 AM,2:00 PM,,Summer/Early Fall,,,0,0
+29/07/20,Wednesday,31,2020,4:00 PM,7:00 PM,,Summer/Early Fall,,,0,0
+01/08/20,Saturday,31,2020,8:00 AM,2:00 PM,,Summer/Early Fall,,,0,0
+05/08/20,Wednesday,32,2020,4:00 PM,7:00 PM,,Summer/Early Fall,,,0,0
+08/08/20,Saturday,32,2020,8:00 AM,2:00 PM,,Summer/Early Fall,,,0,0
+12/08/20,Wednesday,33,2020,4:00 PM,7:00 PM,,Summer/Early Fall,,,0,0
+15/08/20,Saturday,33,2020,8:00 AM,2:00 PM,,Summer/Early Fall,,,0,0
+19/08/20,Wednesday,34,2020,4:00 PM,7:00 PM,,Summer/Early Fall,,,0,0
+22/08/20,Saturday,34,2020,8:00 AM,2:00 PM,,Summer/Early Fall,,,0,0
+26/08/20,Wednesday,35,2020,4:00 PM,7:00 PM,,Summer/Early Fall,,,0,0
+29/08/20,Saturday,35,2020,8:00 AM,2:00 PM,,Summer/Early Fall,,,0,0
+02/09/20,Wednesday,36,2020,4:00 PM,7:00 PM,,Summer/Early Fall,,,0,0
+05/09/20,Saturday,36,2020,8:00 AM,2:00 PM,,Summer/Early Fall,,,0,0
+09/09/20,Wednesday,37,2020,4:00 PM,7:00 PM,,Summer/Early Fall,,,0,0
+12/09/20,Saturday,37,2020,8:00 AM,2:00 PM,,Summer/Early Fall,,,0,0
+16/09/20,Wednesday,38,2020,4:00 PM,7:00 PM,,Summer/Early Fall,,,0,0
+19/09/20,Saturday,38,2020,8:00 AM,2:00 PM,,Summer/Early Fall,,,0,0
+23/09/20,Wednesday,39,2020,4:00 PM,7:00 PM,,Summer/Early Fall,,,0,0
+26/09/20,Saturday,39,2020,8:00 AM,2:00 PM,,Summer/Early Fall,,,0,0
+30/09/20,Wednesday,40,2020,4:00 PM,7:00 PM,,Summer/Early Fall,,,1,0
+03/10/20,Saturday,40,2020,8:00 AM,2:00 PM,,Summer/Early Fall,,,0,0
+07/10/20,Wednesday,41,2020,4:00 PM,7:00 PM,,Summer/Early Fall,,,0,0
+10/10/20,Saturday,41,2020,8:00 AM,2:00 PM,,Summer/Early Fall,,,0,0

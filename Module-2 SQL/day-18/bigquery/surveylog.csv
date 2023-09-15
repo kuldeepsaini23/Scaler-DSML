@@ -1,0 +1,5 @@
+id,action,question_id,answer_id,q_num,timestamp
+5,show,285,NULL,1,123
+5,answer,285,124124,1,124
+5,show,369,NULL,2,125
+5,skip,369,NULL,2,126
