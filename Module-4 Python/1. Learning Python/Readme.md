@@ -1,6 +1,10 @@
 # Python Basics and Examples
 
-![Python Logo](https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png)
+## Link of Python Notes
+### Click on Image to Get Link
+[![](https://i.imgur.com/CvrrZXd.png)](https://docs.google.com/presentation/d/1v7hOEXOoWvffQFm6zr8M7UAObrSkgYtIYvikPlH7Kg8/edit#slide=id.gf5f5e60a82_0_0)
+#### Credits: [Anuj Kumar Shrama](https://github.com/Anuj-Kumar-Sharma)
+
 
 This repository contains Python code examples and explanations for various basic concepts, including variables, data types, operators, control structures, and more.
 
