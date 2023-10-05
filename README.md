@@ -1,5 +1,5 @@
 # AI and Machine Learning Projects
-
+Module-3 se and aage pura complete
 Welcome to my AI and Machine Learning Projects repository! This repository contains a collection of projects related to artificial intelligence and machine learning that I've worked on during my Scaler course.
 
 ![AI and ML](images/ai-ml.jpg)
