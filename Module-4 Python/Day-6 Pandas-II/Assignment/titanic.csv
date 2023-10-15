@@ -1,0 +1,11 @@
+survived,pclass,sex,age,sibsp,parch,fare,embarked,class,adult_male,embark_town,pclass_1,price,gender
+1,3,female,26,0,0,7.925,S,Third,FALSE,Southampton,3,7.925,female
+1,1,female,38,1,0,71.2833,C,First,FALSE,Cherbourg,1,71.2833,female
+1,3,female,26,0,0,7.925,S,Third,FALSE,Southampton,3,7.925,female
+0,3,male,NaN,0,0,8.4583,Q,Third,TRUE,Queenstown,3,8.4583,male
+1,2,female,14,1,0,30.0708,C,Second,FALSE,Cherbourg,2,30.0708,female
+0,3,male,NaN,0,0,8.4583,Q,Third,TRUE,Queenstown,3,8.4583,male
+0,1,male,54,0,0,51.8625,S,First,TRUE,Southampton,1,51.8625,male
+1,1,female,38,1,0,71.2833,C,First,FALSE,Cherbourg,1,71.2833,female
+1,3,female,27,0,2,11.1333,S,Third,FALSE,Southampton,3,11.1333,female
+1,2,female,14,1,0,30.0708,C,Second,FALSE,Cherbourg,2,30.0708,female
